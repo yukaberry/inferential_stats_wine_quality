@@ -5,7 +5,7 @@ The objective of this project: Apply statistical techinques and analyse wine qua
 
 # Topics 
 
-[1_independent_t_test_pooled_variance]()
+[1_independent_t_test_pooled_variance](https://github.com/yukaberry/inferential_stats_wine_quality/blob/master/1_independent_t_test_pooled_variance.ipynb)
 * Standard deviation
 * Plot histogram
 * Calculate population mean
@@ -19,7 +19,7 @@ The objective of this project: Apply statistical techinques and analyse wine qua
 * Hypothesis
 * Pooled variance
 
-[2_correlation_regression_analysis]()
+[2_correlation_regression_analysis](https://github.com/yukaberry/inferential_stats_wine_quality/blob/master/2_correlation_regression_analysis.ipynb)
 * Pearson correlation
 * p(rho)
 * Linear regression
@@ -29,7 +29,7 @@ The objective of this project: Apply statistical techinques and analyse wine qua
 * The over all F test
 * The indivisual T test
 
-[3_hypothesis_testing_in_multiple_liner_regression]()
+[3_hypothesis_testing_in_multiple_liner_regression](https://github.com/yukaberry/inferential_stats_wine_quality/blob/master/3_hypothesis_testing_in_multiple_liner_regression.ipynb)
 
 * Plot histgram
 * Plot data and regression model
